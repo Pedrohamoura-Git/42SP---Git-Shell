@@ -11,6 +11,7 @@ ctrl + L --> Limpa o terminal de comando;
 
 cd --> "Change Directory" | Altera o diretório atual do shell;
 	|->   cd .. --> Volta para o diretório anterior;
+	
 
 chmod --> "Change the Mode" | Altera os direitos de um arquivo;
 	  |-> chmod a --> Altera os direitos de todos;
@@ -22,9 +23,11 @@ chmod --> "Change the Mode" | Altera os direitos de um arquivo;
         |-> r --> Atribui o direito de ler;
         |-> w --> Atribui o direito de editar;
         |-> x --> Atribui o direito de executar;
+	
 
  EX: o+r [PARÂMETRO] --> Adiciona o direito de ler o arquivo indicado em [PARÂMETRO] aos outros;
  EX2: a-x [PARÂMETRO] --> Remove o direito de executar o arquivo indicado a todos;
+ 
 
 git add --> Prepara o(s) arquivo(s) para ser(em) comitado(s);
 git clone --> Copia um repositório do Git existente;
