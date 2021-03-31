@@ -34,6 +34,7 @@ git clone --> Copia um repositório do Git existente;
 git commit -m"descrição do arquivo"--> Faz o commit do arquivo;  
 git push  --> Faz o push do arquivo para o repositório;  
 git status --> Mostra o status atual do repositório local;  
+	|-> --ignored --> Mostra uma lista de todos os arquivos ignorados;  
   
 ls --> "List" | Mostra uma lista com todos os elementos dentro do diretório atual, sem diferenciá-los;  
   	|-> ls -la --> Mostra os arquivos ocultos dentro do diretório atual;  
@@ -46,13 +47,13 @@ mv --> "Move" | Move e/ou renomeia os arquivos de um diretório;
   
 pwd --> "print working directory" | Mostra o diretório atual;  
 
-rm --> "Remove" | Remove o(s) arquivo(s) desejado(s);
- 	  |->   rm -r nome_do_diretório --> Apaga o diretório (pasta);
-  	|->   rm -f nome_do_diretório --> Apaga sem precisar confirmar o comando;
-rmdir --> "Remove Directory" | Exclui o diretório desejado, desde que ele esteja vazio;
+rm --> "Remove" | Remove o(s) arquivo(s) desejado(s);  
+ 	|->   rm -r nome_do_diretório --> Apaga o diretório (pasta);  
+  	|->   rm -f nome_do_diretório --> Apaga sem precisar confirmar o comando;  
+rmdir --> "Remove Directory" | Exclui o diretório desejado, desde que ele esteja vazio;  
 
-touch - Cria um arquivo ou altera as propriedades de um arquivo existente;
-    |->	touch -d --> Altera à data e hora de um arquivo; Ex: "2021-03-30 01:00:00" Teste;
+touch - Cria um arquivo ou altera as propriedades de um arquivo existente;  
+    |->	touch -d --> Altera à data e hora de um arquivo; Ex: "2021-03-30 01:00:00" Teste;  
 
 wget <link> --> Faz o download de um arquivo;  
   
