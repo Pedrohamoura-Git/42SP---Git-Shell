@@ -3,9 +3,9 @@
 
 	ATALHOS NO TECLADO
 
-ctrl + C --> Sai do comando atual;
-ctrl + D --> Apaga o início da linha;
-ctrl + L --> Limpa o terminal de comando;	
+ctrl + C --> Sai do comando atual;***
+ctrl + D --> Apaga o início da linha;***
+ctrl + L --> Limpa o terminal de comando;***	
 
 	GUIA DE COMANDOS SHELL & GIT
 
