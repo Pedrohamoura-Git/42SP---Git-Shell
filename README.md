@@ -31,6 +31,7 @@
  * cut [OPTION] **Nome do arquivo** --> Corta o texto em local específicado e imprime o novo texto na tela; Precisa ser combinada com os seguintes comandos (OPTIONS):  
  	* -b (byte);  
  	* -d (--delimiter) 'parte à cortar' -f(--fields)=N°;  
+ * diff --> "DIfferent" | Compara dois arquivos, linha por linha, e imprime na tela os erros encontrados junto com suas respectivas linhas;
  
 
 * git add --> Prepara o(s) arquivo(s) para ser(em) comitado(s);  
