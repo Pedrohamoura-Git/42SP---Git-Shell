@@ -8,6 +8,9 @@
 * ctrl + L --> Limpa o terminal de comando;  
 
 	GUIA DE COMANDOS SHELL & GIT
+	
+* cat [OPTION] --> "Concatenate" | Mostra o(s) conteúdo(s) do(s) arquivo(s) desejado(s);
+	* |-> cat -e [OPTION] --> Mostra informações adicionais
 
 * cd --> "Change Directory" | Altera o diretório atual do shell;  
 	* |->   cd .. --> Volta para o diretório anterior;  
