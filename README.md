@@ -20,9 +20,9 @@
 	- |-> chmod u --> Altera os direitos do usuário;
 		- |-> chmod + --> Adiciona direitos;  
 		- |-> chmod - --> Remove direitos;  
-			- |-> r --> Atribui o direito de ler;  
-			- |-> w --> Atribui o direito de editar;  
-			- |-> x --> Atribui o direito de executar;  
+			- |-> r --> Altera o direito de ler;  
+			- |-> w --> Altera o direito de editar;  
+			- |-> x --> Altera o direito de executar;  
 	
 
  EX: o+r [PARÂMETRO] --> Adiciona o direito de ler o arquivo indicado em [PARÂMETRO] aos outros;  
